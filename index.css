@@ -1,0 +1,58 @@
+.myPad {
+    padding: 0% !important; 
+}
+ .leftCol {
+    background-color: purple;
+ }
+ .toto {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 7px;
+ }
+ .paddin {
+    padding: 0% !important;
+ }
+ .mcNetanya {
+text-align: end;
+margin-top: 65px;
+ }
+ .mcNetanyaImg {
+display: flex;
+justify-content: flex-end;
+ }
+ .sideAds {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+ }
+ .gerald {
+    display: flex;
+    justify-content: flex-end;
+ }
+ .benayun {
+    text-align: end;
+    margin-top: 65px;
+
+ }
+ .england{
+    margin-top: 16px;
+    background-color: aquamarine;
+ }
+ .netanya {
+    background-color: blue;
+ }
+ .clickSave {
+    background-color: black;
+    text-align: end;
+    color: white;
+    padding: 4px;
+ }
+ .wolt {
+    display: flex;
+    justify-content: center;
+ }
+ .manora {
+    display: flex;
+    justify-content: center;
+ }
